@@ -1,1 +1,2 @@
-I did this only to train FlexBox Skills
+I did this only to practice FlexBox skills
+
